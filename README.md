@@ -6,7 +6,7 @@ A modern, full-stack job matching platform that uses artificial intelligence to 
 
 ## 🚀 Live Demo
 
-**Live Application**: [https://harmonious-fudge-236ac6.netlify.app](https://jobmatch123.netlify.app/)
+**Live Application**: (https://jobmatch123.netlify.app/)
 
 ### Demo Credentials
 - **Admin Access**: `admin@jobai.com` / `admin123`
